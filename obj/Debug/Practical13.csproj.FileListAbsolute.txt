@@ -1,0 +1,5 @@
+D:\dnt\Practical13\Practical13\bin\Practical13.dll
+D:\dnt\Practical13\Practical13\bin\Practical13.pdb
+D:\dnt\Practical13\Practical13\obj\Debug\ResolveAssemblyReference.cache
+D:\dnt\Practical13\Practical13\obj\Debug\Practical13.dll
+D:\dnt\Practical13\Practical13\obj\Debug\Practical13.pdb
